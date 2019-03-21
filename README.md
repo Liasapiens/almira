@@ -6,4 +6,3 @@ Test repo for learning GITty stuff.
 * learn git
 * adopt a doggo
 * plant a tree
-* change stuff
