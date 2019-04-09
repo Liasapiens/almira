@@ -1,16 +1,7 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Hahó, Juli vagyok</title>
-		<link rel="stylesheet" href="latvany.css"/>
-	</head>
-<body>
-	<h1>Medium vagyok. Latom a jelent. Meg szeretem a kutyakat. A macskakat is, amiert a sajat kutyam idonkent duzzog.</h1>
-	<p>etc Stuff like that</p>
-	<ul>
-		<li>grafoman vagyok</li>
-		<li>meg cukorfuggo</li>
-	</ul>	
+h1 {
+color: purple;
+}
+p {
+	color: green;
 	
-</body>
-</html>
+}
